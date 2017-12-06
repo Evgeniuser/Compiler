@@ -1,0 +1,1068 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77879d93-63e3-41ae-8158-9b0ad9384dcc" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/../Compiler/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Compiler$Parser.coverage" NAME="Parser Coverage Results" MODIFIED="1512565083601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Compiler" />
+    <favorites_list name="Unnamed" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Lab2.flex" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.flex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="850">
+              <caret line="54" column="6" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+              <folding>
+                <marker date="1512564847972" expanded="true" signature="295:634" ph="{...}" />
+                <marker date="1512564847972" expanded="false" signature="565:570" ph=" { " />
+                <marker date="1512564847972" expanded="false" signature="589:592" ph=" }" />
+                <marker date="1512564847972" expanded="false" signature="611:616" ph=" { " />
+                <marker date="1512564847972" expanded="false" signature="629:632" ph=" }" />
+                <marker date="1512564847972" expanded="true" signature="713:815" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="841:896" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="842:844" ph=" { " />
+                <marker date="1512564847972" expanded="true" signature="842:895" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="902:956" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="903:905" ph=" { " />
+                <marker date="1512564847972" expanded="true" signature="957:968" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="969:1025" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="970:1024" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="1026:1034" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="1035:1092" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="1036:1091" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="1037:1091" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="1089:1090" ph=" }" />
+                <marker date="1512564847972" expanded="true" signature="1093:1104" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="1105:1161" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="1106:1108" ph=" { " />
+                <marker date="1512564847972" expanded="true" signature="1162:1172" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="1173:1229" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="1174:1176" ph=" { " />
+                <marker date="1512564847972" expanded="true" signature="1232:1244" ph="{...}" />
+                <marker date="1512564847972" expanded="true" signature="1317:1322" ph=" { " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Yylex.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/Yylex.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4624">
+              <caret line="272" column="21" lean-forward="true" selection-start-line="272" selection-start-column="21" selection-end-line="272" selection-end-column="21" />
+              <folding>
+                <marker date="1512569066457" expanded="true" signature="19950:20043" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gram.flex" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/gram.flex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="100" column="29" lean-forward="false" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
+              <folding>
+                <marker date="1512569065084" expanded="true" signature="346:394" ph="{...}" />
+                <marker date="1512569065084" expanded="true" signature="407:767" ph="{...}" />
+                <marker date="1512569065084" expanded="false" signature="698:703" ph=" { " />
+                <marker date="1512569065084" expanded="false" signature="722:725" ph=" }" />
+                <marker date="1512569065084" expanded="false" signature="744:749" ph=" { " />
+                <marker date="1512569065084" expanded="false" signature="762:765" ph=" }" />
+                <marker date="1512569065084" expanded="true" signature="846:948" ph="{...}" />
+                <marker date="1512569065084" expanded="true" signature="978:1003" ph="{...}" />
+                <marker date="1512569065084" expanded="true" signature="1011:1034" ph="{...}" />
+                <marker date="1512569065084" expanded="true" signature="1049:1071" ph="{...}" />
+                <marker date="1512569065084" expanded="true" signature="1083:1112" ph="{...}" />
+                <marker date="1512569065084" expanded="true" signature="1127:1149" ph="{...}" />
+                <marker date="1512569065084" expanded="true" signature="1162:1194" ph="{...}" />
+                <marker date="1512569065084" expanded="true" signature="1282:1287" ph=" { " />
+                <marker date="1512569065084" expanded="true" signature="1323:1377" ph="{...}" />
+                <marker date="1512569065084" expanded="true" signature="1409:1487" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lab2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lab3.flex" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/Lab3.flex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding>
+                <marker date="1512570642204" expanded="true" signature="295:674" ph="{...}" />
+                <marker date="1512570642204" expanded="false" signature="605:610" ph=" { " />
+                <marker date="1512570642204" expanded="false" signature="629:632" ph=" }" />
+                <marker date="1512570642204" expanded="false" signature="651:656" ph=" { " />
+                <marker date="1512570642204" expanded="false" signature="669:672" ph=" }" />
+                <marker date="1512570642204" expanded="true" signature="753:855" ph="{...}" />
+                <marker date="1512570642204" expanded="true" signature="882:935" ph="{...}" />
+                <marker date="1512570642204" expanded="false" signature="943:945" ph=" { " />
+                <marker date="1512570642204" expanded="true" signature="1010:1096" ph="{...}" />
+                <marker date="1512570642204" expanded="true" signature="1108:1163" ph="{...}" />
+                <marker date="1512570642204" expanded="true" signature="1178:1180" ph=" { " />
+                <marker date="1512570642204" expanded="true" signature="1246:1248" ph=" { " />
+                <marker date="1512570642204" expanded="true" signature="1389:1394" ph=" { " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Lab3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/Lab3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="746" column="6" lean-forward="false" selection-start-line="746" selection-start-column="6" selection-end-line="746" selection-end-column="6" />
+              <folding>
+                <element signature="e#312#329#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/HashMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1326">
+              <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+              <folding>
+                <element signature="e#346#347#0" expanded="true" />
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#566#567#0" expanded="true" />
+                <element signature="e#590#591#0" expanded="true" />
+                <element signature="e#623#624#0" expanded="true" />
+                <element signature="e#658#659#0" expanded="true" />
+                <element signature="e#932#933#0" expanded="true" />
+                <element signature="e#989#990#0" expanded="true" />
+                <element signature="e#1160#1172#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Queue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-298">
+              <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#753#754#0" expanded="true" />
+                <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#936#937#0" expanded="true" />
+                <element signature="e#960#961#0" expanded="true" />
+                <element signature="e#2172#2173#0" expanded="true" />
+                <element signature="e#2224#2225#0" expanded="true" />
+                <element signature="e#2442#2443#0" expanded="true" />
+                <element signature="e#2481#2482#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tesr.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/tesr.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Parser.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/Parser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-5338">
+              <caret line="230" column="60" lean-forward="true" selection-start-line="230" selection-start-column="60" selection-end-line="230" selection-end-column="60" />
+              <folding>
+                <marker date="1512569122512" expanded="true" signature="17691:17758" ph="//..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Parser</find>
+      <find>ParserVal</find>
+      <find>map</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>parser</replace>
+      <replace>parserval</replace>
+    </replaceStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.flex" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.jflex" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab2/tesr" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab4/lex.yy" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab4/Main.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab4/Lab4.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab4/parserval.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab4/parser.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab4/testr" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.flex" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab4/Yylex.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab4/ParserVal.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab4/Parser.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab4/gram.flex" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab4/lex.y" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab3/HashEntry.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab3/Lab3.flex" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab3/DeletedEntry.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab3/Que.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab3/Queue.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab3/HashMap.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab3/Lab3.java" />
+        <option value="$PROJECT_DIR$/../Compiler/src/Lab2/tesr.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="929" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compiler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Compiler" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Compiler" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab4" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Compiler\src\Lab3" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Parser">
+    <configuration name="Lab2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Lab2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Lab2.Lab2" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="E:\Compiler\src\Lab2\tesr.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Compiler" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Compiler" />
+      <envs />
+    </configuration>
+    <configuration name="Lab3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Lab3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Lab3.Lab3" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="E:\Compiler\src\Lab2\tesr.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Compiler" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Compiler" />
+      <envs />
+    </configuration>
+    <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Parser" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="E:\Compiler\src\Lab4\testr.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Compiler" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Compiler" />
+      <envs />
+    </configuration>
+    <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Lab4.Parser" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="E:\Compiler\src\Lab2\tesr.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Compiler" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Compiler" />
+      <envs />
+    </configuration>
+    <configuration name="Parser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="Lab4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="Lab4.Parser" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="E:\Compiler\src\Lab2\tesr.txt" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../Compiler" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Compiler" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Compiler" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.Lab2" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Lab3" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Parser" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Parser" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Lab3" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Parser" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Parser" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Lab2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77879d93-63e3-41ae-8158-9b0ad9384dcc" name="Default" comment="" />
+      <created>1512556335091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512556335091</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.328125" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28333333" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" x="217" y="435" width="1552" height="272" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21885337" sideWeight="0.4883721" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21885337" sideWeight="0.5116279" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32916668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="884">
+          <caret line="56" column="7" lean-forward="true" selection-start-line="56" selection-start-column="7" selection-end-line="56" selection-end-column="7" />
+          <folding>
+            <marker date="1512564847972" expanded="true" signature="295:634" ph="{...}" />
+            <marker date="1512564847972" expanded="false" signature="565:570" ph=" { " />
+            <marker date="1512564847972" expanded="false" signature="589:592" ph=" }" />
+            <marker date="1512564847972" expanded="false" signature="611:616" ph=" { " />
+            <marker date="1512564847972" expanded="false" signature="629:632" ph=" }" />
+            <marker date="1512564847972" expanded="true" signature="713:815" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="841:896" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="842:844" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="842:895" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="902:956" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="903:905" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="957:968" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="969:1025" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="970:1024" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1026:1034" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1035:1092" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1036:1091" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1037:1091" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1089:1090" ph=" }" />
+            <marker date="1512564847972" expanded="true" signature="1093:1104" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1105:1161" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1106:1108" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="1162:1172" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1173:1229" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1174:1176" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="1232:1244" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1317:1322" ph=" { " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/Lab3.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1122">
+          <caret line="66" column="31" lean-forward="false" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+          <folding>
+            <marker date="1512570642204" expanded="true" signature="295:674" ph="{...}" />
+            <marker date="1512570642204" expanded="false" signature="605:610" ph=" { " />
+            <marker date="1512570642204" expanded="false" signature="629:632" ph=" }" />
+            <marker date="1512570642204" expanded="false" signature="651:656" ph=" { " />
+            <marker date="1512570642204" expanded="false" signature="669:672" ph=" }" />
+            <marker date="1512570642204" expanded="true" signature="753:855" ph="{...}" />
+            <marker date="1512570642204" expanded="true" signature="882:935" ph="{...}" />
+            <marker date="1512570642204" expanded="false" signature="943:945" ph=" { " />
+            <marker date="1512570642204" expanded="true" signature="1010:1096" ph="{...}" />
+            <marker date="1512570642204" expanded="true" signature="1108:1163" ph="{...}" />
+            <marker date="1512570642204" expanded="true" signature="1178:1180" ph=" { " />
+            <marker date="1512570642204" expanded="true" signature="1246:1248" ph=" { " />
+            <marker date="1512570642204" expanded="true" signature="1389:1394" ph=" { " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/Lab3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12376">
+          <caret line="744" column="0" lean-forward="false" selection-start-line="744" selection-start-column="0" selection-end-line="744" selection-end-column="0" />
+          <folding>
+            <element signature="e#312#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/HashEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/DeletedEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="true" selection-start-line="0" selection-start-column="13" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/tesr.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="false" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <folding>
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1160#1172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1512564847972" expanded="true" signature="295:634" ph="{...}" />
+            <marker date="1512564847972" expanded="false" signature="565:570" ph=" { " />
+            <marker date="1512564847972" expanded="false" signature="589:592" ph=" }" />
+            <marker date="1512564847972" expanded="false" signature="611:616" ph=" { " />
+            <marker date="1512564847972" expanded="false" signature="629:632" ph=" }" />
+            <marker date="1512564847972" expanded="true" signature="713:815" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="841:896" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="842:844" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="842:895" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="902:956" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="903:905" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="957:968" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="969:1025" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="970:1024" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1026:1034" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1035:1092" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1036:1091" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1037:1091" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1089:1090" ph=" }" />
+            <marker date="1512564847972" expanded="true" signature="1093:1104" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1105:1161" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1106:1108" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="1162:1172" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1173:1229" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1174:1176" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="1232:1244" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1317:1322" ph=" { " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4.java" />
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.jflex" />
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/test" />
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/tesr" />
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/lex.yy" />
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/Main.java" />
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/Lab4.java" />
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/testr" />
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/ParserVal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="e#0#1217#0" expanded="false" />
+            <marker date="1512568776386" expanded="true" signature="145:281" ph="/**...*/" />
+            <marker date="1512568776386" expanded="true" signature="322:362" ph="/**...*/" />
+            <marker date="1512568776386" expanded="true" signature="381:420" ph="/**...*/" />
+            <marker date="1512568776386" expanded="true" signature="442:481" ph="/**...*/" />
+            <marker date="1512568776386" expanded="true" signature="503:542" ph="/**...*/" />
+            <marker date="1512568776386" expanded="true" signature="563:687" ph="//..." />
+            <marker date="1512568776386" expanded="true" signature="688:728" ph="/**...*/" />
+            <marker date="1512568776386" expanded="true" signature="748:751" ph="{}" />
+            <marker date="1512568776386" expanded="true" signature="752:786" ph="/**...*/" />
+            <marker date="1512568776386" expanded="false" signature="812:817" ph=" { " />
+            <marker date="1512568776386" expanded="false" signature="826:828" ph=" }" />
+            <marker date="1512568776386" expanded="true" signature="830:866" ph="/**...*/" />
+            <marker date="1512568776386" expanded="false" signature="895:900" ph=" { " />
+            <marker date="1512568776386" expanded="false" signature="909:911" ph=" }" />
+            <marker date="1512568776386" expanded="true" signature="913:949" ph="/**...*/" />
+            <marker date="1512568776386" expanded="false" signature="978:983" ph=" { " />
+            <marker date="1512568776386" expanded="false" signature="992:994" ph=" }" />
+            <marker date="1512568776386" expanded="true" signature="996:1033" ph="/**...*/" />
+            <marker date="1512568776386" expanded="false" signature="1062:1067" ph=" { " />
+            <marker date="1512568776386" expanded="false" signature="1075:1077" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/testr.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/lex.y">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="51" lean-forward="false" selection-start-line="27" selection-start-column="51" selection-end-line="27" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/HashEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk-9/lib/src.zip!/java.base/java/lang/Iterable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="206">
+          <caret line="41" column="20" lean-forward="false" selection-start-line="41" selection-start-column="20" selection-end-line="41" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-298">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#753#754#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#936#937#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#2172#2173#0" expanded="true" />
+            <element signature="e#2224#2225#0" expanded="true" />
+            <element signature="e#2442#2443#0" expanded="true" />
+            <element signature="e#2481#2482#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/DeletedEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="54" column="6" lean-forward="false" selection-start-line="54" selection-start-column="6" selection-end-line="54" selection-end-column="6" />
+          <folding>
+            <marker date="1512564847972" expanded="true" signature="295:634" ph="{...}" />
+            <marker date="1512564847972" expanded="false" signature="565:570" ph=" { " />
+            <marker date="1512564847972" expanded="false" signature="589:592" ph=" }" />
+            <marker date="1512564847972" expanded="false" signature="611:616" ph=" { " />
+            <marker date="1512564847972" expanded="false" signature="629:632" ph=" }" />
+            <marker date="1512564847972" expanded="true" signature="713:815" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="841:896" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="842:844" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="842:895" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="902:956" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="903:905" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="957:968" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="969:1025" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="970:1024" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1026:1034" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1035:1092" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1036:1091" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1037:1091" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1089:1090" ph=" }" />
+            <marker date="1512564847972" expanded="true" signature="1093:1104" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1105:1161" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1106:1108" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="1162:1172" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1173:1229" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1174:1176" ph=" { " />
+            <marker date="1512564847972" expanded="true" signature="1232:1244" ph="{...}" />
+            <marker date="1512564847972" expanded="true" signature="1317:1322" ph=" { " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/Yylex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4624">
+          <caret line="272" column="21" lean-forward="true" selection-start-line="272" selection-start-column="21" selection-end-line="272" selection-end-column="21" />
+          <folding>
+            <marker date="1512569066457" expanded="true" signature="19950:20043" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/gram.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="100" column="29" lean-forward="false" selection-start-line="100" selection-start-column="29" selection-end-line="100" selection-end-column="29" />
+          <folding>
+            <marker date="1512569065084" expanded="true" signature="346:394" ph="{...}" />
+            <marker date="1512569065084" expanded="true" signature="407:767" ph="{...}" />
+            <marker date="1512569065084" expanded="false" signature="698:703" ph=" { " />
+            <marker date="1512569065084" expanded="false" signature="722:725" ph=" }" />
+            <marker date="1512569065084" expanded="false" signature="744:749" ph=" { " />
+            <marker date="1512569065084" expanded="false" signature="762:765" ph=" }" />
+            <marker date="1512569065084" expanded="true" signature="846:948" ph="{...}" />
+            <marker date="1512569065084" expanded="true" signature="978:1003" ph="{...}" />
+            <marker date="1512569065084" expanded="true" signature="1011:1034" ph="{...}" />
+            <marker date="1512569065084" expanded="true" signature="1049:1071" ph="{...}" />
+            <marker date="1512569065084" expanded="true" signature="1083:1112" ph="{...}" />
+            <marker date="1512569065084" expanded="true" signature="1127:1149" ph="{...}" />
+            <marker date="1512569065084" expanded="true" signature="1162:1194" ph="{...}" />
+            <marker date="1512569065084" expanded="true" signature="1282:1287" ph=" { " />
+            <marker date="1512569065084" expanded="true" signature="1323:1377" ph="{...}" />
+            <marker date="1512569065084" expanded="true" signature="1409:1487" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/Lab2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/Lab3.flex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding>
+            <marker date="1512570642204" expanded="true" signature="295:674" ph="{...}" />
+            <marker date="1512570642204" expanded="false" signature="605:610" ph=" { " />
+            <marker date="1512570642204" expanded="false" signature="629:632" ph=" }" />
+            <marker date="1512570642204" expanded="false" signature="651:656" ph=" { " />
+            <marker date="1512570642204" expanded="false" signature="669:672" ph=" }" />
+            <marker date="1512570642204" expanded="true" signature="753:855" ph="{...}" />
+            <marker date="1512570642204" expanded="true" signature="882:935" ph="{...}" />
+            <marker date="1512570642204" expanded="false" signature="943:945" ph=" { " />
+            <marker date="1512570642204" expanded="true" signature="1010:1096" ph="{...}" />
+            <marker date="1512570642204" expanded="true" signature="1108:1163" ph="{...}" />
+            <marker date="1512570642204" expanded="true" signature="1178:1180" ph=" { " />
+            <marker date="1512570642204" expanded="true" signature="1246:1248" ph=" { " />
+            <marker date="1512570642204" expanded="true" signature="1389:1394" ph=" { " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1326">
+          <caret line="137" column="0" lean-forward="false" selection-start-line="137" selection-start-column="0" selection-end-line="137" selection-end-column="0" />
+          <folding>
+            <element signature="e#346#347#0" expanded="true" />
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#566#567#0" expanded="true" />
+            <element signature="e#590#591#0" expanded="true" />
+            <element signature="e#623#624#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1160#1172#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab3/Lab3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="746" column="6" lean-forward="false" selection-start-line="746" selection-start-column="6" selection-end-line="746" selection-end-column="6" />
+          <folding>
+            <element signature="e#312#329#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab2/tesr.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="16" lean-forward="false" selection-start-line="0" selection-start-column="16" selection-end-line="0" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Compiler/src/Lab4/Parser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5338">
+          <caret line="230" column="60" lean-forward="true" selection-start-line="230" selection-start-column="60" selection-end-line="230" selection-end-column="60" />
+          <folding>
+            <marker date="1512569122512" expanded="true" signature="17691:17758" ph="//..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Compiler</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
